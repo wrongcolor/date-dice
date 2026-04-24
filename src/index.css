@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  @apply font-sans antialiased text-blush-900;
+  background: linear-gradient(135deg, #ffe4e8 0%, #fff1e0 50%, #ffd9c2 100%);
+  background-attachment: fixed;
+}
