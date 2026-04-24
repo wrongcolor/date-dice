@@ -7,6 +7,7 @@ const filterGroups = [
       { value: 'divertido', label: 'Divertido' },
       { value: 'leve', label: 'Leve' },
       { value: 'intenso', label: 'Intenso' },
+      { value: 'criativo', label: 'Criativo' },
     ],
   },
   {
